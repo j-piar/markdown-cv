@@ -1,91 +1,104 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Juraj Piar's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Juraj Piar
+Software developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:juraj.piar@hotmail.com">juraj.piar@hotmail.com</a>
+| <a>4 Christian Way TR7 3LA</a>
+<!-- <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> -->
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+In final year of undergraduate degree
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Artificial intelligence
 
 
 ### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Brain-Computer Interfacing
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2014`
+__Cornwall College__, Saltash
+- Access to Higher Education - Computing
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2014-2018`
+__University of the West of England__, Bristol
+- Computer Science BSc (Hons)
 
-- Sizar
+### Awards
+`2015`
+- Dean’s Award for Academic Excellence
+- Tony Papadopoullos Bursary for technical innovation
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2016`
+- Dean’s Award for Academic Excellence
 
-- Fellow
+## Skills
+__Coding__
+- !["dd"](/langSkillSpider.png "Self-assessed skill level [experience, # projects, confidence]")
+
+__Development__
+- Methodology: Scrum
+- Team: Jira, Confluence, Git
+- DevOps: GitCI, AWS
+- Env: Docker, VMWare
+- OS: MacOS, GNU/Linux, MS Windows
+
+## Employment
+
+`2016-2017`
+__European Organisation for Nuclear Research (CERN)__, Geneva, CH
+- Technical Student
+- __360° Panorama Project (publication)__
+  - Finalisation of a prototype and implementation of a virtual tour of the accelerator tunnels using Java with Spring framework and JavaScript (React, Webkit)
+  - Communication of requirements from a number of stakeholders (groups, sections, teams …)
+  - Close cooperation with CERN GIS team resulting in seamless front-end integration
+- __Layout Drawings Project__
+  - Prototyping a browser-based application for seamless viewing of the LHC layout drawings
+analysis of existing processes and their alternatives
+  - Production the LHC layout drawings using CAD&VBA
+gave presentation to a wider development group about JavaScript ECMA 6
+
+`2015-2016`
+__Arkevista Ltd.__, Gloucester, UK
+- Software Developer (Freelance)
+- __Arki__
+  - Further development and maintenance of the core software solution (Java)
+  - Additional functionality for core system
+    - Data relationship mapping and visualisation
+    - Automatic standardised reporting
+    - AI engine to support the process of filling data gaps
+  - Other
+    - Supporting the analysts with other ad-hoc requirements
+
+`2015-2015`
+__Arkevista Ltd.__, Gloucester, UK
+- Software Developer (Internship)
+- __Arki__
+  - Further development and maintenance of the core software solution (Java)
+- __Other__
+  - Plugin for a geographical information system for viewing, categorising and tagging shipping data
 
 
+__Languages__
+- Slovak - Native
+- English - C1 (CEF)
+- Czech - C1 (CEF)
+- French - A1 (CEF)
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## Personal interests
+I have always been interested in electronics and information technology, physics and mathematics. I also really enjoy activities such as surfing, snowboarding, hiking and literature.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: February 2018 -->
