@@ -45,7 +45,7 @@ __University of the West of England__, Bristol
 
 ## Skills
 __Coding__
-- !["dd"](/langSkillAug18.png "Self-assessed skill level [experience, # projects, confidence]")
+- !["dd"](/media/images/langSkillAug18.png "Self-assessed skill level [experience, # projects, confidence]")
 
 __Development__
 - Methodology: Agile.Scrum
