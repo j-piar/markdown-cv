@@ -11,59 +11,61 @@ Software developer
 <!-- <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> -->
 </div>
 
-
 ## Currently
-
-Final year of undergraduate degree
+Software Developer at Buzz Interactive
 
 ### Specialized in
-
-Artificial intelligence
-
+Artificial intelligence, Enterprise systems development
 
 ### Research interests
 - Brain-Computer Interfacing and use of AI in education
 
-
 ## Education
+`2014-2018`
+__University of the West of England__, Bristol
+- Computer Science BSc (Hons)
+
+### Dissertation
+`2018`
+- AI as a Service For Online Education Providers 
+
+### Awards
+`2018`
+- First Class Degree with Honours
+
+`2016`
+- Dean’s Award for Academic Excellence
+
+`2015`
+- Dean’s Award for Academic Excellence
+- Tony Papadopoullos Bursary for Technical Innovation
 
 `2013-2014`
 __Cornwall College__, Saltash
 - Access to Higher Education - Computing
 
-`2014-2018`
-__University of the West of England__, Bristol
-- Computer Science BSc (Hons)
-
-### Awards
-`2015`
-- Dean’s Award for Academic Excellence
-- Tony Papadopoullos Bursary for technical innovation
-
-`2016`
-- Dean’s Award for Academic Excellence
-
 ## Skills
-__Coding__
-- !["dd"](/media/images/langSkillAug18.png "Self-assessed skill level [experience, # projects, confidence]")
+__Languages__
+- !["dd"](/media/images/langSkillApr19.png "Self-assessed skill level [experience, # projects, confidence] of languages")
 
-__Development__
+__Tools__
+- !["dd"](/media/images/toolsSkillsApr18.png "Self-assessed skill level [experience, # projects, confidence] of tools")
+
+__Other__
 - Methodology: Agile.Scrum
-- Team: Jira, Confluence, Git
-- DevOps: GitCI, AWS
-- Env: Docker, VMWare
+- Team: Jira, Confluence, Slack
+- DevOps: Git, GitLab CI, AWS
+- Env: Docker, VMWare, venv, Conda
 - OS: MacOS, GNU/Linux, MS Windows
+- Net: WebSockets, REST
 
 ## Employment
-
 `2018-Present`
 __Buzz Interactive Ltd.__, Newquay, UK
 - Software Developer
-- __App and Web Development__
-  <!-- - Prototyped new mobile app using C# and Xamarin framework -->
-  - Extending existing iOS, Android and Web software using C# .NET(Framework 4.x and Mono) with Xamarin and MvvmCross
-  - Migration of legacy core project to .NETStandard
-  - Extending and creating UI using XCode iOS Interface Builder and AndroidXML (axml)
+- __App and Web Development__=
+  - Lead developer on a hybrid app project for sharing text, files and websites (Ionic 4, Angular 7, TypeScript, Objective-C, Swift, Java).
+  - Lead developer of existing mobile app for monitoring Menieres disease, built with Xamarin and MvvmCross (C#), with OrchardCMS backend (C#).
 
 `2016-2017`
 __European Organisation for Nuclear Research (CERN)__, Geneva, CH
@@ -82,11 +84,11 @@ __European Organisation for Nuclear Research (CERN)__, Geneva, CH
   - Presentation of JavaScript ECMA 6 to a wider development group
   - Production and presentation of methodology analysis report of creation of layout drawings
 
-`2015-2016`
+`2015-2018`
 __Arkevista Ltd.__, Gloucester, UK
 - Software Developer (Freelance)
 - __Arki__
-  - Further development and maintenance of the core software solution (Java)
+  - Further development and maintenance of the core software solution (JavaSE)
   - Additional functionality for core system
     - Data relationship mapping and visualisation
     - Automatic standardised reporting
@@ -98,12 +100,13 @@ __Arkevista Ltd.__, Gloucester, UK
 __Arkevista Ltd.__, Gloucester, UK
 - Software Developer (Internship)
 - __Arki__
-  - Further development and maintenance of the core software solution (Java)
+  - Further development and maintenance of the core software solution (JavaSE)
 - __Other__
-  - Plugin for a geographical information system for viewing, categorising and tagging shipping data (Python)
+  - Plugin for a geographical information system for viewing, categorising and tagging shipping data (Python 3.x)
 
 
 __Languages__
+- French - A1 (CEF)
 - English - C1 (CEF)
 - Czech - C3 (CEF)
 - Slovak - Native
