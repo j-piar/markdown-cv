@@ -49,7 +49,7 @@ __Languages__
 - !["dd"](/media/images/langSkillApr19.png "Self-assessed skill level [experience, # projects, confidence] of languages")
 
 __Tools__
-- !["dd"](/media/images/toolsSkillsApr18.png "Self-assessed skill level [experience, # projects, confidence] of tools")
+- !["dd"](/media/images/toolsSkillsApr19.png "Self-assessed skill level [experience, # projects, confidence] of tools")
 
 __Other__
 - Methodology: Agile.Scrum
